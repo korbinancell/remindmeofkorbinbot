@@ -1,0 +1,7 @@
+pics/
+testFiles/
+extras/
+.vscode/
+.env
+myFace.jpg
+targetPic.jpg
